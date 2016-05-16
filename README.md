@@ -1,1 +1,1 @@
-# Find-Pi-to-The-Nth-Place
+# Find-Pi-to-the-Nth-Place
